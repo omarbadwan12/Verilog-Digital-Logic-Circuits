@@ -3,7 +3,7 @@ Verilog Digital Logic Circuits Design
 Digital Systems (ENCS2340) project part 2 at Birzeit University
 
 Overview
-This project involves designing and simulating various combinational logic circuits using Verilog HDL and Altera Quartus II[cite: 8].
+This project involves designing and simulating various combinational logic circuits using Verilog HDL and Altera Quartus II
 
  Implemented Circuits
 1. 1-Bit Comparator
